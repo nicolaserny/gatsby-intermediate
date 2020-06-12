@@ -1,4 +1,5 @@
 import React from 'react';
+import Form from '../components/form';
 
 const Search = () => (
   <>
@@ -7,6 +8,7 @@ const Search = () => (
       Trying to remember which Rick you're talking about? Trying out this handy
       search interface!
     </p>
+    <Form />
   </>
 );
 
