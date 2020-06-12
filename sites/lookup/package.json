@@ -10,7 +10,11 @@
     "develop": "gatsby develop"
   },
   "dependencies": {
+    "@apollo/client": "^3.0.0-rc.4",
+    "@apollo/react-common": "^3.1.4",
     "gatsby": "^2.15.28",
+    "gatsby-plugin-apollo": "^3.0.1",
+    "graphql-tag": "^2.10.3",
     "react": "^16.10.1",
     "react-dom": "^16.10.1"
   }
